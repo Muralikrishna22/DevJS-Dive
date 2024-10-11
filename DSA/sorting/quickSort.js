@@ -22,6 +22,8 @@ const quickSort = (arr) => {
 
 console.log(quickSort(nums))
 
+// result will be: [ 2, 2, 5, 5, 23, 24, 32, 36, 36, 42, 44, 46, 234, 234, 234, 345, 523, 643, 57856 ]
+
 
 
 

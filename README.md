@@ -6,3 +6,9 @@ Dive deep into JavaScript development with curated DSA problems, machine coding 
 2. Recursion
 3. Sorting
 4. String
+
+# advanced-js-concepts
+1. currying
+2. closures
+3. debouncing
+4. throttling

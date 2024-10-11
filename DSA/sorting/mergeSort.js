@@ -26,3 +26,5 @@ const mergeSort = (arr) => {
 console.time('mergeSort')
 console.log(mergeSort(nums))
 console.timeEnd('mergeSort')
+
+// result will be: [ 2, 2, 3, 3, 5, 5, 6, 6, 12, 23, 32, 36, 52, 56, 57, 57 ]

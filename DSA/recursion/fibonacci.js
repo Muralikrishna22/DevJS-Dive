@@ -18,5 +18,5 @@ function fibonacci(n){
 }
 
 let res = fibonacci(7)
-console.log(res)
+console.log(res) // 13
 

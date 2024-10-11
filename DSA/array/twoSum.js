@@ -19,7 +19,7 @@ function twoSum(arr, sum){
 }
 
 let arr = [2,4,5,7]
-let sum = 10
+let sum = 9
 let res = twoSum(arr, sum)
 
-console.log(res)
+console.log(res) // [ 1, 2 ]

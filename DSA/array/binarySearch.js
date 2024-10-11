@@ -1,6 +1,5 @@
 
-let nums = [2,44,24,5,2,23,32,46,36,57856,643,523,42,5,36,345,234,234,234].sort((a,b) => a-b)
-console.log(nums)
+let nums = [ 2, 5, 23, 24, 32, 36, 42, 44, 46, 234, 345, 523, 643, 57856 ]
 let target = 2
 
 const binarySearch = (arr, target) => {
@@ -20,7 +19,7 @@ const binarySearch = (arr, target) => {
 }
 
 let res = binarySearch(nums,target)
-console.log(res)
+console.log(res) // 1
 
 
 
